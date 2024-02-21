@@ -66,4 +66,3 @@ La concentración es fundamental para ser productivo. Aquí algunas técnicas qu
 - **Técnica del flujo de trabajo ultradiano**: trabajar en bloques de tiempo de 90 minutos, seguidos de 20 minutos de descanso.
 
 Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabajar.
-
