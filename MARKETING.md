@@ -93,3 +93,11 @@ Es necesario tener en cuenta que el buyer persona es una herramienta que te ayud
 - Enfocar los esfuerzo en definir los objetivos, retos, preocupaciones y motivaciones.
 - Esfuerza el conocimiento del cliente para entender como podemos ayudarlo.
 - Escucha sus comentarios y quejas para mejorar la experiencia del cliente.
+
+## Product Market Fit
+
+Se basa en la idea de que un producto debe ser capaz de satisfacer las necesidades de un mercado, para poder tener éxito.
+
+El product market fit se basa en 4 aspectos: Necesidad, Solución, Valor y Diferenciación.
+
+Si un producto encaja en las necesidades de un mercado, es capaz de satisfacer las necesidades de un mercado, es capaz de aportar valor a un mercado, y es capaz de diferenciarse de la competencia, entonces tiene product market fit.

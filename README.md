@@ -39,6 +39,24 @@ Recuerda, estar felices, nos lleva a cumplir nuestros objetivos.
 - La mejora radical es aquello que cambia por completo la forma de hacer algo.
 - La única forma de hacer un gran trabajo es amar lo que haces.
 
+### Metodología del trabajo
+
+- Es necesario realizar una investigación de las necesidades.
+- Cada tarea debe ser clara y proporcionar suficiente contexto.
+- Documentar el proceso sobre la tarea, brinda la oportunidad de aprender de ella.
+- Se requiere un plan de acción sobre cada tarea.
+- En el desarrollo de software las pruebas son una parte importante del proceso.
+- La calidad es la base del desarrollo de software.
+- Realizar una tarea a la vez, es una filosofía de trabajo, te permite centrarte en lo que realmente importa.
+- Da seguimiento a todas las dudas.
+- Las soluciones a los problemas son una oportunidad para documentar y aprender.
+- Si no tienes dudas, no estás aprendiendo.
+- Siempre prioriza el trabajo en equipo.
+- En el desarrollo de software, Git es una herramienta fundamental.
+  - Crear ramas para cada tarea, y hacer pull request para revisar el código.
+  - Solicitar la revisión del código a un compañero.
+- La comunicación es la base del trabajo en equipo.
+
 ## Analogías
 
 - Si quieres que un tren a 10 km/h aumente su velocidad a 100 km/h, solo tienes que poner más caballos de fuerza. Pero si quieres que un tren a 100 km/h aumente su velocidad a 300 km/h, necesitas un nuevo diseño, por lo tanto, tienes que pensar en muchas cosas debido a que es un cambio radical.
@@ -71,6 +89,8 @@ Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabaja
 
 - [**Liderazgo**](LIDERAZGO.md): el liderazgo es la capacidad de influir en los demás.
 - [**Marketing**](MARKETING.md): el marketing es la capacidad de comunicar el valor de un producto o servicio.
+- [**Kanban**](KANBAN.md): Kanban es una forma de gestionar el trabajo de forma visual.
+- [**Arquitectura de software**](ARQUITECTURA.md): la arquitectura de software es una disciplina que se encarga de definir la estructura de un sistema de software.
 - **Mindfulness**: la atención plena es una técnica que te ayuda a estar presente en el aquí y ahora.
 - **Resiliencia**: la resiliencia es la capacidad de superar la adversidad.
 - **Autogestión**: la autogestión es la capacidad de gestionar tu tiempo y tus emociones.
