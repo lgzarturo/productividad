@@ -66,3 +66,12 @@ La concentración es fundamental para ser productivo. Aquí algunas técnicas qu
 - **Técnica del flujo de trabajo ultradiano**: trabajar en bloques de tiempo de 90 minutos, seguidos de 20 minutos de descanso.
 
 Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabajar.
+
+## Otros temas
+
+- [**Liderazgo**](LIDERAZGO.md): el liderazgo es la capacidad de influir en los demás.
+- [**Marketing**](MARKETING.md): el marketing es la capacidad de comunicar el valor de un producto o servicio.
+- **Mindfulness**: la atención plena es una técnica que te ayuda a estar presente en el aquí y ahora.
+- **Resiliencia**: la resiliencia es la capacidad de superar la adversidad.
+- **Autogestión**: la autogestión es la capacidad de gestionar tu tiempo y tus emociones.
+- **Hábitos**: los hábitos son la base de la productividad.
