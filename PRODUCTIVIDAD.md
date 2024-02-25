@@ -2,12 +2,12 @@
 
 Leyes sobre la comunicación, la productividad y la gestión del tiempo.
 
-- Claridad: evita usar muletillas, palabras de relleno, y frases sin sentido.
-- Brevedad: En la sencillez está la perfección.
-- Precisión: Evita la ambigüedad, y la falta de claridad. Usa las palabras que comunican con exactitud lo que quieres decir.
-- Corrección: Evita los errores gramaticales, ortográficos y de puntuación. Ser lo mas presentable posible.
-- Totalidad: Evita la falta de información, y la falta de contexto. Asegúrate de que la información sea completa.
-- Relevancia: Evita la falta de interés, y la falta de importancia.
+- **Claridad**: evita usar muletillas, palabras de relleno, y frases sin sentido.
+- **Brevedad**: En la sencillez está la perfección.
+- **Precisión**: Evita la ambigüedad, y la falta de claridad. Usa las palabras que comunican con exactitud lo que quieres decir.
+- **Corrección**: Evita los errores gramaticales, ortográficos y de puntuación. Ser lo mas presentable posible.
+- **Totalidad**: Evita la falta de información, y la falta de contexto. Asegúrate de que la información sea completa.
+- **Relevancia**: Evita la falta de interés, y la falta de importancia.
 
 ## Ley de Parkinson
 

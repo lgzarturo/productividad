@@ -89,3 +89,139 @@ El desacoplamiento es bueno porque fomenta la buena práctica de que el código 
 Los buenos nombres hacen el código que sea más fácil de entender y hay que leerlo para cambiarlo.
 
 El mantenimiento del código base debe ser parte rutinario del proceso de desarrollo completo.
+
+## API Restful
+
+Una API se define como una interfaz de programación de aplicaciones, y es un conjunto de reglas y definiciones que permite a los sistemas de software comunicarse entre sí.
+
+Una API RESTful es una API que se basa en el protocolo HTTP, y que sigue los principios de REST. Se usa para la comunicación entre aplicaciones o servicios.
+
+El objetivo de una API RESTful es compartir recursos entre aplicaciones o servicios, y se basa en los siguientes principios:
+
+- **Recursos**: Los recursos son las entidades que se comparten entre aplicaciones o servicios.
+- **URI**: La URI es la forma de identificar un recurso.
+- **Métodos HTTP**: Los métodos HTTP son las operaciones que se pueden realizar sobre un recurso.
+- **Representaciones**: Las representaciones son las formas en que se pueden representar los recursos.
+- **HATEOAS**: HATEOAS es un principio de REST que se basa en la idea de que un recurso debe ser capaz de proporcionar enlaces a otros recursos.
+- **Estado**: El estado es la forma en que se puede representar el estado de un recurso.
+- **Cache**: La cache es la forma en que se puede almacenar en caché un recurso.
+- **Seguridad**: Se basa en la autenticación y autorización de un recurso.
+- **Versionado**: Es la versión de un recurso y se basa en la idea de que un recurso sea independiente de su versión.
+
+Una API RESTful se basa en la arquitectura cliente-servidor, y se usa como mecanismo para conectar aplicaciones o servicios.
+
+## Métodos HTTP
+
+Los métodos HTTP son las operaciones que se pueden realizar sobre un recurso, y se basan en los siguientes métodos:
+
+- **GET**: El método GET se basa en la obtención de un recurso.
+- **POST**: El método POST se basa en la creación de un recurso.
+- **PUT**: El método PUT se basa en la actualización de un recurso.
+- **DELETE**: El método DELETE se basa en la eliminación de un recurso.
+- **PATCH**: El método PATCH se basa en la actualización parcial de un recurso.
+- **HEAD**: El método HEAD se basa en la obtención de los encabezados de un recurso.
+- **OPTIONS**: El método OPTIONS se basa en la obtención de las opciones de un recurso.
+- **TRACE**: El método TRACE se basa en la obtención de la ruta de un recurso.
+
+## Representar operaciones
+
+- **Crear**: Puede representar un INSERT en una base de datos y se usa el método POST.
+- **Leer**: Puede representar un SELECT en una base de datos y se usa el método GET.
+- **Actualizar**: Puede representar un UPDATE en una base de datos y se usa el método PUT o PATCH.
+- **Eliminar**: Puede representar un DELETE en una base de datos y se usa el método DELETE.
+
+## Indempotencia
+
+Un método es idempotente si el resultado de una operación es el mismo, independientemente de cuántas veces se repita la operación.
+
+- **GET/HEAD**: Son idempotentes, debido a que no producen cambios en el servidor. Solo se usan para recuperar información, lo que normalmente se conoce como operaciones de solo lectura. Ahora se les conoce como operaciones seguras, ya que representan funciones que siempre devuelven el mismo resultado, sin importar cuántas veces se repitan. Este concepto de idempotencia es importante para la caché, ya que permite a los intermediarios almacenar en caché los resultados de las operaciones seguras.
+- **PUT/PATCH/DELETE**: Se pueden considerar idempotentes, siempre y cuando el resultado en el estado del servidor, ya que no cambia después de una operación segura. Se tiene que garantizar que el cliente pueda repetir la operación sin causar cambios adicionales en el servidor.
+- **POST**: No es idempotente, ya que cada vez que se realiza la operación, se produce un cambio en el servidor.
+
+## Códigos de estado
+
+Los códigos de estado son una forma de comunicar el resultado de una operación, y se basan en los siguientes códigos:
+
+- **1xx**: Respuestas informativas.
+- **2xx**: Respuestas satisfactorias.
+- **3xx**: Redirecciones.
+- **4xx**: Errores del cliente.
+- **5xx**: Errores del servidor.
+
+### Códigos aplicados en API RESTful
+
+- Crear un recurso debe devolver un código 201 (_Created_).
+- Si no se puede crear un recurso, debe devolver un código 409 (_Conflict_).
+- Recuperar los recursos debe devolver un código 200 (_OK_).
+- Recuperar un solo recurso debe devolver un código 200 (_OK_).
+- Si el recurso no existe, debe devolver un código 404 (_Not Found_).
+- Actualizar un recurso debe devolver un código 200 (_OK_).
+- Actualizar una parte de un recurso debe devolver un código 200 (_OK_).
+- Si no se puede actualizar un recurso, debe devolver un código 409 (_Conflict_).
+- Si se elimina un recurso, debe devolver un código 204 (_No Content_).
+- Si no se puede eliminar un recurso, debe devolver un código 409 (_Conflict_).
+- Si no se puede procesar un método, debe devolver un código 405 (_Method Not Allowed_).
+- Si se pasan parámetros incorrectos, debe devolver un código 400 (_Bad Request_).
+- Si se necesita autenticación, debe devolver un código 401 (_Unauthorized_).
+- Si no se tiene permisos, debe devolver un código 403 (_Forbidden_).
+- Si hay un error en el servidor, debe devolver un código 500 (_Internal Server Error_).
+- Si hay un error en el servidor, pero es temporal, debe devolver un código 503 (_Service Unavailable_).
+- Si hay un error en el servidor, pero es permanente, debe devolver un código 502 (_Bad Gateway_).
+
+## Capas de la arquitectura API RESTful
+
+- **Capa de presentación**: Se encarga de almacenar los controladores, los datos de entrada y salida, y las vistas.
+- **Capa de aplicación**: Se encarga de almacenar los servicios, los datos de entrada y salida, y las reglas de negocio. Operaciones de lectura y escritura.
+- **Capa de dominio**: Se encarga de almacenar los modelos, los repositorios, y las entidades. Operaciones de lectura y escritura a la base de datos.
+- **Capa de infraestructura**: Se encarga de almacenar los adaptadores, los puertos, y las implementaciones de servicios.
+- **Capa de persistencia**: Se encarga de almacenar las bases de datos, los esquemas, y las tablas.
+- **Capa de seguridad**: Se encarga de almacenar los tokens, los permisos, y las reglas de seguridad.
+- **Capa de monitoreo**: Se encarga de almacenar los logs, las métricas, y las alertas.
+- **Capa de pruebas**: Se encarga de almacenar los tests, los mocks, y las pruebas unitarias.
+- **Capa de documentación**: Se encarga de almacenar la documentación, los ejemplos, y las guías.
+- **Capa de despliegue**: Se encarga de almacenar los servidores, los contenedores, y las nubes.
+- **Capa de integración continua**: Se encarga de almacenar los pipelines, los builds, y las pruebas de integración.
+
+Para representar la estructura de paquetes en una aplicación Spring Boot siguiendo las capas de la arquitectura API RESTful que has mencionado, puedes organizar tus paquetes de la siguiente manera:
+
+```plaintext
+com
+└── [company]
+    └── [application_name]
+        ├── controllers             (Capa de presentación)
+        │
+        ├── services                (Capa de aplicación)
+        │
+        ├── models                  (Capa de dominio)
+        │   ├── entities            (Entidades del dominio)
+        │   └── repositories        (Interfaces de repositorios)
+        │
+        ├── adapters                (Capa de infraestructura)
+        │   └── implementations     (Implementaciones de servicios)
+        │
+        ├── persistence             (Capa de persistencia)
+        │   └── database            (Configuración de base de datos)
+        │
+        ├── security                (Capa de seguridad)
+        │   ├── tokens              (Generación y validación de tokens)
+        │   └── rules               (Configuración de seguridad)
+        │
+        ├── monitoring              (Capa de monitoreo)
+        │   ├── logs                (Configuración de logs)
+        │   ├── metrics             (Configuración de métricas)
+        │   └── alerts              (Configuración de alertas)
+        │
+        ├── tests                   (Capa de pruebas)
+        │   ├── unit                (Pruebas unitarias)
+        │   └── integration         (Pruebas de integración)
+        │
+        ├── documentation           (Capa de documentación)
+        │   ├── examples            (Ejemplos de uso de la API)
+        │   └── guides              (Guías para desarrolladores)
+        │
+        ├── deploy                  (Capa de despliegue)
+        │   └── servers             (Configuración de servidores)
+        │
+        └── ci                      (Capa de integración continua)
+            └── pipelines           (Configuración de pipelines)
+````

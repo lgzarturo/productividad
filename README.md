@@ -24,6 +24,31 @@ Acepta el paso del tiempo, lo único que no cambia es el cambio.
 
 Recuerda, estar felices, nos lleva a cumplir nuestros objetivos.
 
+## Kaizen
+
+El Kaizen es una filosofía japonesa que se basa en la mejora continua. Se basa en la idea de que pequeñas mejoras diarias pueden llevar a grandes cambios a largo plazo.
+
+El objetivo es hacer pequeñas mejoras de manera continua, para perfeccionar tus habilidades cada día y en consecuencia, mejorar tu productividad.
+
+Para lograrlo es necesario:
+
+- Tener capacidad de adaptación, que se basa en la idea de que el cambio es inevitable.
+- Ser inquisitivo, es decir, tener la capacidad de hacer preguntas, y buscar respuestas.
+- Ser creativo, es decir, tener la capacidad de pensar de forma diferente.
+- Tener la habilidad de pensamiento crítico, es decir, tener la capacidad de analizar y evaluar la información de manera objetiva.
+- Ser realista, es decir, tener la capacidad de ver las cosas como son, y no como te gustaría que fueran.
+- Ser versátil y proactivo, es decir, tener la capacidad de tomar la iniciativa y hacer las cosas por ti mismo.
+- Te debe preocupar tu oficio, más que tu salario.
+- Debes buscar el esfuerzo diario, como una recompensa para el futuro.
+- Piensa en tu trabajo como una forma de vida, no como un medio para ganar dinero.
+- Recuerda el sustento de los proyecto se basa en la fe de las contribuciones de los demás.
+- Debes tener en mente que no estás aquí para cumplir las expectativas de los demás, sino para cumplir tus propias expectativas. Pero sobre todo los demás no están aquí para cumplir tus expectativas, sino para cumplir las suyas.
+- La capacidad de acción es la base de la mejora continua.
+- Pregúntate a ti mismo, ¿Porque no puedes cambiarlo?
+- La entropía es la tendencia natural de las cosas a desordenarse, en el desarrollo de software eso se convierte en la deuda técnica.
+- Debes ser el responsable de ofrecer soluciones, no busques escusas.
+- Es tu vida, te pertenece, tu la diriges y tu creas tu propio destino. No te dejes llevar por las circunstancias, sino que crea las circunstancias que te llevarán a donde quieres llegar.
+
 ## Ideas sobre el tiempo
 
 - Las lecciones se aprenden del pasado y de las experiencias.
@@ -91,6 +116,7 @@ Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabaja
 - [**Marketing**](MARKETING.md): el marketing es la capacidad de comunicar el valor de un producto o servicio.
 - [**Kanban**](KANBAN.md): Kanban es una forma de gestionar el trabajo de forma visual.
 - [**Arquitectura de software**](ARQUITECTURA.md): la arquitectura de software es una disciplina que se encarga de definir la estructura de un sistema de software.
+- [**Productividad**](PRODUCTIVIDAD.md): La productividad es la capacidad de hacer más con menos.
 - **Mindfulness**: la atención plena es una técnica que te ayuda a estar presente en el aquí y ahora.
 - **Resiliencia**: la resiliencia es la capacidad de superar la adversidad.
 - **Autogestión**: la autogestión es la capacidad de gestionar tu tiempo y tus emociones.

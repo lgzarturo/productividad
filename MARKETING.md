@@ -2,17 +2,17 @@
 
 Objetivos generales del marketing:
 
-- Reducción de tiempos y costos. (Eficiencia)
-- Mayor prospección de clientes. (Calidad)
-- Difusión del branding. (Conocimiento)
-- Promocionar productos orgánicamente. (SEO)
-- Reconocimiento de usuarios. (Negociación)
-- Incitar a la intención de compra. (Cierre)
-- Conocer el interés de los usuarios. (Análisis)
-- Incrementar la fidelidad de los clientes. (Fidelización)
-- Suministrar información de valor. (Educación)
-- Aumentar la satisfacción del cliente. (Soporte)
-- Incrementar la venta cruzada. (Cierre)
+- Reducción de tiempos y costos. (_Eficiencia_)
+- Mayor prospección de clientes. (_Calidad_)
+- Difusión del branding. (_Conocimiento_)
+- Promocionar productos orgánicamente. (_SEO_)
+- Reconocimiento de usuarios. (_Negociación_)
+- Incitar a la intención de compra. (_Cierre_)
+- Conocer el interés de los usuarios. (_Análisis_)
+- Incrementar la fidelidad de los clientes. (_Fidelización_)
+- Suministrar información de valor. (_Educación_)
+- Aumentar la satisfacción del cliente. (_Soporte_)
+- Incrementar la venta cruzada. (_Cierre_)
 
 Datos de interés:
 
@@ -28,9 +28,9 @@ Datos de interés:
 
 ## ROI
 
-El ROI (Return On Investment) es una métrica que mide la rentabilidad de una inversión. Se calcula dividiendo la ganancia neta por el costo de la inversión.
+El ROI (_Return On Investment_) es una métrica que mide la rentabilidad de una inversión. Se calcula dividiendo la ganancia neta por el costo de la inversión.
 
-Ejemplo: Al ingreso neto de una inversión de $ 1,000, se le resta el costo de la inversión ($ 500), y se divide entre el costo de la inversión ($ 500). El resultado es 1, lo que significa que por cada peso invertido, se obtiene un peso de beneficio.
+Ejemplo: Al ingreso neto de una inversión de $ 1,000, se le resta el costo de la inversión $ 500, y se divide entre el costo de la inversión $ 500. El resultado es 1, lo que significa que por cada peso invertido, se obtiene un peso de beneficio.
 
 Formula: ROI = (Ingreso neto - Costo de la inversión) / Costo de la inversión
 
@@ -50,15 +50,15 @@ El marketing tradicional se basa en la publicidad en medios masivos, como la tel
 
 Las características del marketing son:
 
-- Interrupción: El marketing tradicional interrumpe al usuario con publicidad. El marketing digital no interrumpe al usuario con publicidad.
-- Conexión: El marketing digital conecta al usuario con la marca. El marketing tradicional no conecta al usuario con la marca.
-- Mayor capital: El marketing tradicional requiere de mayor capital. El marketing digital requiere de menor capital.
-- Nuevas ideas: El marketing digital permite nuevas ideas. El marketing tradicional no permite nuevas ideas.
-- Publicidad: El marketing tradicional se basa en la publicidad. El marketing digital se basa en la publicidad y en la comunicación.
-- Producto: El marketing tradicional se basa en el producto. El marketing digital se basa en el producto y en el cliente.
-- La marca es la que comunica: El marketing tradicional es la marca la que comunica. El marketing digital es el cliente el que comunica.
-- Ficción: El marketing tradicional es ficción. El marketing digital es realidad.
-- Autentico: El marketing tradicional es autentico. El marketing digital es autentico y transparente.
+- **Interrupción**: El marketing tradicional interrumpe al usuario con publicidad. El marketing digital no interrumpe al usuario con publicidad.
+- **Conexión**: El marketing digital conecta al usuario con la marca. El marketing tradicional no conecta al usuario con la marca.
+- **Mayor capital**: El marketing tradicional requiere de mayor capital. El marketing digital requiere de menor capital.
+- **Nuevas ideas**: El marketing digital permite nuevas ideas. El marketing tradicional no permite nuevas ideas.
+- **Publicidad**: El marketing tradicional se basa en la publicidad. El marketing digital se basa en la publicidad y en la comunicación.
+- **Producto**: El marketing tradicional se basa en el producto. El marketing digital se basa en el producto y en el cliente.
+- **La marca es la que comunica**: El marketing tradicional es la marca la que comunica. El marketing digital es el cliente el que comunica.
+- **Ficción**: El marketing tradicional es ficción. El marketing digital es realidad.
+- **Autentico**: El marketing tradicional es autentico. El marketing digital es autentico y transparente.
 
 ## Sobre métricas
 
