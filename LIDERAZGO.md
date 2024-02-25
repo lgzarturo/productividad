@@ -36,3 +36,8 @@ El éxito no es un destino, el éxito es un camino. El éxito es una actitud. El
 - Aprende de los demás, no solo de ti mismo.
 - Acepta la crítica, no te cierres a la crítica.
 - Crea oportunidades y promueve el bienestar.
+
+## Frases
+
+- "El liderazgo es una forma de pensar, una forma de actuar, una forma de ser."
+- "La tecnología reinventará los negocios, pero las relaciones humanas seguirán siendo el motor del éxito."

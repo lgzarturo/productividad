@@ -63,3 +63,29 @@ Las características sobre el monitoreo son:
 - Efectivo: El monitoreo efectivo se basa en la capacidad de protegerse de amenazas.
 - Fácil de usar: El monitoreo fácil de usar se basa en la facilidad de uso.
 - Fácil de instalar: El monitoreo fácil de instalar se basa en la facilidad de instalación.
+
+## Factores del desarrollo
+
+- Forma declarativa sobre la configuración: La forma declarativa sobre la configuración se basa en la idea de que la configuración de un sistema de software debe ser declarativa, y no imperativa.
+- Claro contrato con el Sistema Operativo.
+- El sistema siempre debe estar listo para ser desplegado.
+- Es necesario minimizar la diferencia entre los entornos de desarrollo, pruebas y producción.
+- El sistema debe ser fácil de escalar.
+- El código base es una sola fuente de verdad.
+- Es necesario no tener dependencias externas o en el sistema operativo.
+
+## Sobre el código
+
+Un diseño bueno es más fácil de cambiar que un diseño malo.
+
+DRY: No dupliques código a lo largo del sistema.
+
+KISS: Mantén las cosas simples.
+
+Ortogonalidad: No divida una sola porción de código en multiples componentes del sistema.
+
+El desacoplamiento es bueno porque fomenta la buena práctica de que el código base sea más fácil de cambiar.
+
+Los buenos nombres hacen el código que sea más fácil de entender y hay que leerlo para cambiarlo.
+
+El mantenimiento del código base debe ser parte rutinario del proceso de desarrollo completo.
