@@ -45,3 +45,21 @@ Hay que considerar el tiempo del diseño, el tiempo de resolución, el tiempo de
 Una forma sencilla de empezar es usar la base de código, establecer las lineas de código que se van a modificar, y establecer el tiempo que se va a tardar en modificarlas.
 
 El punto de referencia puede ser la base de código que hay actualmente, un marco de referencia para poder estimar el tiempo de las nuevas incidencias, en base a su parecido con las incidencias anteriores.
+
+## Principios básicos
+
+- Satisfacción del cliente con la entrega continua de valor.
+- Aceptar que los requisitos cambian.
+- Entregar valor incremental, lo más rápido posible.
+- El negocio y el equipo de desarrollo deben trabajar juntos.
+- Los proyectos deben ser construidos por personas motivadas.
+- Se busca la comunicación efectiva.
+- La mejor métrica es la satisfacción del cliente.
+- Debe haber un desarrollo sostenible, capaz de mantener un ritmo constante.
+- La atención continua a la excelencia técnica y al buen diseño, se traduce en agilidad.
+- Maximizar el trabajo, con el enfoque en la simplicidad.
+- Los equipos y los desarrolladores deben ser auto-organizados.
+- La retrospectiva es una forma de mejorar el trabajo.
+- Se buscan expectativas realistas, para poder cumplirlas.
+- El ciclo de desarrollo es continuo, debido a que se busca la entrega continua de valor.
+- La transparencia es fundamental, para poder gestionar el trabajo.

@@ -79,3 +79,62 @@ Enfocarse en lo que realmente importa y en las personas relevantes.
 - Crea una posición competitiva donde las personas se quiere unir a ti, y donde las personas quieren trabajar contigo.
 - Todo conflicto aunque seas el vencedor, te va a debilitar en el futuro, es mejor evitarlo.
 - Nadie me va a decir lo que no puedo hacer en la vida.
+
+## Mantras
+
+- No hablar de cosas negativas.
+- Siempre es necesario esforzarse al máximo.
+- Siempre aprender algo nuevo.
+- La preparación es la clave del éxito.
+- Haz que las oportunidades lleguen a ti.
+- Atiende a todos por igual.
+- Mejora la lectura y la escritura.
+- Dibuja diagramas y esquemas sobre lo que aprendes.
+- No es necesario que tengas expectativas sobre los demás.
+- Ser positivo es una cualidad que se puede aprender.
+- Genera ideas proactivas y realizar propuestas de mejora continua.
+- Siempre hay tiempos mejores.
+- Dormir bien es necesario para la salud.
+- Los malos tiempos huyen de quien no les teme.
+- Cuando las situaciones son difíciles, es necesario mantener la calma y sonreír.
+- La paz interior y la actitud positiva son generadores de éxito en la vida.
+
+## Plan de acción
+
+1. Basa tus proyectos en productos de éxito.
+2. Enfoca tus hábitos de ejemplos de personas que admiras.
+3. Busca mejoras sobre los productos que ya existen.
+4. Aprende un lenguaje nuevo.
+5. Piensa en como se monetiza un producto.
+6. Escucha las tendencias, busca productos que solucionen las necesidades de las personas.
+7. Cree en lo que vas a hacer, y en lo que estás haciendo.
+8. Toma una sola cosa y hazla lo mejor que puedas.
+9. Solo necesitas un objetivo para empezar.
+10. No descartes ideas solo porque alguien ya lo hizo, siempre hay espacio para mejorar. Solo tienes que ver que sea un proyecto exitoso.
+11. Aprender de los errores de los demás, te puede ahorrar tiempo y dinero.
+12. No te preocupes por el dinero, preocúpate por hacer un buen trabajo.
+
+## Sobre las reuniones
+
+- Las reuniones deben ser cortas y efectivas.
+- Definir los puntos que se van a tratar.
+- Buscar refuerzos positivos.
+- Los temas a tratar deben ser concretos, buscando la mejora continua.
+- Es mejor ser específico, en lugar de general.
+- Preguntar sobre el punto de vista de los demás, con el fin de obtener retroalimentación.
+- Buscar el desarrollo de las personas, y el crecimiento del equipo.
+- Siempre resolver los impedimentos que se presenten.
+- Las inquietudes deben ser resueltas lo antes posible.
+
+## 10 principios de calidad
+
+1. El enfoque es el cliente.
+2. El liderazgo, es necesario para el desarrollo de la empresa.
+3. La participación del personal, es fundamental para el crecimiento profesional.
+4. Nos debemos preocupar por el enfoque basado en procesos.
+5. La mejora continua, es una forma de crecimiento.
+6. Los beneficios mutuos, son una consecuencia de la calidad.
+7. La toma de decisiones basada en hechos.
+8. Crear sistemas para automatizar los procesos.
+9. Ajustar tiempos y recursos para la mejora continua.
+10. Primero hay que atacar lo que más reincidencia tiene.

@@ -101,3 +101,78 @@ Se basa en la idea de que un producto debe ser capaz de satisfacer las necesidad
 El product market fit se basa en 4 aspectos: Necesidad, Solución, Valor y Diferenciación.
 
 Si un producto encaja en las necesidades de un mercado, es capaz de satisfacer las necesidades de un mercado, es capaz de aportar valor a un mercado, y es capaz de diferenciarse de la competencia, entonces tiene product market fit.
+
+## Métricas más importantes
+
+### Marketing
+
+- Costo por adquisición.
+- Cuota de mercado, valor de la marca.
+- Costo por cliente.
+- Tasas de conversión.
+- Páginas vistas.
+- Porcentaje de rebote.
+- Interacción en redes sociales.
+
+### Email marketing
+
+- Tasa de apertura.
+- Tasa de clics.
+- Tasa de conversión.
+- Tasa de baja.
+- Porcentaje de entregas.
+- Número de suscriptores.
+- Tasa de abandono.
+
+### SEO
+
+- Tasa de conversión.
+- Tiempo de visita en el sitio.
+- Tiempo invertido en la página.
+- Porcentaje de rebote.
+- Enlaces entrantes.
+- Páginas indexadas.
+- Autoridad de dominio.
+
+### PPC
+
+- Costo por clic.
+- Posición media de anuncios.
+- CTR.
+- Número de conversiones.
+- Costo por conversión.
+- Gasto total.
+- Retorno de la inversión.
+- Calidad del anuncio.
+- Número de impresiones.
+
+### Redes sociales
+
+- Alcance.
+- Clics.
+- Interacción.
+- Likes.
+- Comentarios.
+- Compartidos.
+- Menciones de la marca.
+- Visitas al perfil.
+- Seguidores activos.
+- Número de impresiones.
+- Datos demográficos.
+
+### E-commerce
+
+- Crecimiento de las ventas.
+- Tasa de rebote.
+- Incremento del tráfico.
+- Clientes nuevos.
+- Tasa de abandono del carrito.
+- Valor promedio de la orden.
+
+### Análisis web
+
+- Número de visitantes únicos.
+- Número de páginas vistas.
+- Tiempo de visita.
+- Porcentaje de rebote.
+- Fuentes de tráfico.

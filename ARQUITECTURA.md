@@ -224,4 +224,53 @@ com
         │
         └── ci                      (Capa de integración continua)
             └── pipelines           (Configuración de pipelines)
-````
+```
+
+## Componentes de una aplicación Spring Boot con API RESTful
+
+1. Interfaz: Define métodos que se van a implementar. Es el contrato que deben cumplir las clases que lo implementen.
+2. Controlador: Se encarga de recibir las peticiones HTTP, procesarlas y devolver una respuesta. Aquí se definen los endpoints y la interacción con las solicitudes y respuestas.
+3. Servicio: Se encarga de implementar la lógica de negocio. Aquí se definen las operaciones que se pueden realizar sobre los recursos.
+4. Repositorio: Se encarga de implementar la persistencia de los datos. Aquí se definen las operaciones de lectura y escritura a la base de datos.
+5. Entidad: Se encarga de representar los datos de la base de datos. Aquí se definen las tablas y las relaciones entre ellas.
+6. Adaptador: Se encarga de implementar la infraestructura. Aquí se definen las implementaciones de servicios.
+
+## Acciones a considerar
+
+En el desarrollo de un proyecto de software, es necesario considerar las siguientes acciones:
+
+- Realiza pruebas unitarias y de integración.
+- Refactoriza el código, solo cuando sea necesario.
+- Las pruebas de regresión son importantes.
+- La corrección de errores, debe ser una prioridad.
+- Las pruebas de aceptación se basan en la idea de que el cliente acepte el producto.
+- La documentación debe ser automatizada.
+- Piensa siempre en los requerimientos del cliente.
+- Pon atención al rendimiento, la escalabilidad y la seguridad.
+
+## Análisis de la arquitectura
+
+- El desarrollo de software debe ser un proceso iterativo.
+- Se requiere de una planificación y un diseño.
+- Es necesario tener una comprensión del panorama general del proyecto.
+- Los casos de uso son una forma de entender los requerimientos del cliente.
+
+### Desarrollo iterativo y gradual
+
+- Se requiere un análisis de los requerimientos.
+- Se debe proponer un diseño.
+- La implementación debe ser una prioridad.
+- La experimentación es una forma de aprender.
+- El desarrollo debe ser modular.
+- Se debe determinar el alcance del proyecto y este siempre puede cambiar.
+- La estimación de tiempos es una forma de adquirir compromisos.
+- Siempre pensar en la arquitectura de la información.
+- Las pruebas deben ser parte del desarrollo.
+- Mientras más grande sea el proyecto, más ceremonias se requieren.
+- El objetivo es mantener la ceremonia al mínimo.
+- La base de la comunicación debe ser el caso de uso.
+- El modelo de dominio es una forma de entender el negocio.
+- La arquitectura debe ser una prioridad.
+- La calidad es una forma de medir el éxito.
+- La documentación es una forma de comunicar.
+- La retroalimentación es una forma de mejorar.
