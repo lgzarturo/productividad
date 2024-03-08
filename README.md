@@ -112,6 +112,7 @@ Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabaja
 
 ## Otros temas
 
+- [**Aprendizaje**](PASOS%20PARA%20APRENDER.md): el aprendizaje es la capacidad de adquirir conocimientos.
 - [**Liderazgo**](LIDERAZGO.md): el liderazgo es la capacidad de influir en los demás.
 - [**Marketing**](MARKETING.md): el marketing es la capacidad de comunicar el valor de un producto o servicio.
 - [**Kanban**](KANBAN.md): Kanban es una forma de gestionar el trabajo de forma visual.
