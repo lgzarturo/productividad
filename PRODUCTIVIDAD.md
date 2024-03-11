@@ -13,6 +13,12 @@ Leyes sobre la comunicación, la productividad y la gestión del tiempo.
 
 La ley de Parkinson es una ley que establece que el trabajo se expande hasta llenar el tiempo disponible para su realización.
 
+> La Ley de Parkinson postula que el trabajo se expande para ocupar el tiempo disponible. Esto implica que si asignas una semana para completar una tarea, es probable que te tome toda esa semana, incluso si podrías haberla finalizado en menos tiempo.
+
+Es esencial establecer plazos concretos para las tareas para aumentar la productividad. Trabajar bajo plazos ajustados fomenta la eficiencia y nos impulsa a encontrar formas de superar los obstáculos.
+
+La búsqueda continua de mejoras y mayor productividad es fundamental. La productividad requiere constancia y paciencia para encontrar las estrategias más efectivas.
+
 ## Sobre la comunicación
 
 Es necesario exponer la información progresivamente para evitar la redundancia, y la falta de claridad. El objetivo es que se logre entender y que el mensaje sea relevante para el lector.
