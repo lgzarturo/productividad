@@ -4,6 +4,31 @@ La metodología Kanban es una forma de gestionar el trabajo de forma visual. Se 
 
 Se basa en 4 principios: Visualizar, Limitar, Medir y Mejorar.
 
+Uno de los objetivos de Kanban es mostrar como funciona nuestra forma de trabajar, y el compromiso del equipo con el trabajo equilibrado.
+
+El método Kanban se ocupa del diseño, la gestión y la mejora de los sistemas de flujo en el ámbito del trabajo del conocimiento.
+
+## ¿Como funciona Kanban?
+
+Kanban es un método que te ayuda a definir, gestionar y mejorar los servicios de entregar valor, mediante el trabajo continuo, esto se logra debido a que se hace visible lo que de otra forma es trabajo intangible.
+
+Para poder realizar esto, el sistema de Kanban propone un sistema de flujo de entrega que limita la cantidad de trabajo en progreso, para poder equilibrar la demanda con la capacidad del equipo. Se usan señales visuales mediante tarjetas y la señalización que se establece en el tablero. Generando un sistema de arrastre, que es el que se encarga de mover las tarjetas de un estado a otro, hasta que se termina el trabajo.
+
+## Valores de Kanban
+
+- Transparencia, compartir información abiertamente.
+- Equilibrio, entre la demanda y la capacidad.
+- Colaboración, entre los miembros del equipo.
+- Enfoque en el cliente, para poder entregar valor.
+- Respeto, por las personas y el trabajo que realizan.
+- Liderazgo, para poder gestionar el trabajo.
+- Compromiso, con el trabajo equilibrado.
+- Acuerdo, en la forma de trabajar.
+- Enfoque en la calidad, para poder entregar valor.
+- Mejora continua, para poder mejorar el trabajo.
+- Enfoque en el flujo, para poder gestionar el trabajo.
+- Entendimiento, de como funciona el trabajo.
+
 ## Incidencias
 
 En el desarrollo de software las incidencias serán marcadas como Bugs, pero en se basan en incidencias de alta prioridad que deben ser resueltas lo antes posible.
@@ -63,3 +88,17 @@ El punto de referencia puede ser la base de código que hay actualmente, un marc
 - Se buscan expectativas realistas, para poder cumplirlas.
 - El ciclo de desarrollo es continuo, debido a que se busca la entrega continua de valor.
 - La transparencia es fundamental, para poder gestionar el trabajo.
+
+## Principios fundacionales
+
+- Empezar lo que esta haciendo ahora.
+- Entender los procesos actuales.
+- Respeta el proceso actual, roles, responsabilidades y títulos.
+- Acordar buscar la mejora continua, mediante el cambio evolutivo.
+- Fomentar la liderazgo en todos los niveles.
+- Gestiona el trabajo, no a las personas.
+- Minimiza la resistencia al cambio.
+- Los procesos actuales contienen sabiduría y potencial para la mejora.
+- Entender las necesidades y expectativas de los clientes.
+- Dejar que los miembros del equipo se auto-organicen alrededor de las tareas.
+- Evolucionar las políticas, para mejorar los resultados hacia el objetivo.
