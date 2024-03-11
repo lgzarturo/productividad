@@ -76,3 +76,125 @@
 - Mejora tu capacidad de entender los requerimientos.
 - Descubre cual es el mejor camino para resolver un problema.
 - Todo los días busca la forma de resolver un problema.
+
+## Ruta de aprendizaje
+
+Esta es una ruta de aprendizaje para un desarrollador web, que busca aprender sobre JavaScript y React. El objetivo es aprender sobre las bases de JavaScript, las bases de React, CSS, React Router, manejo de estado, hooks, bibliotecas, UI components, Backend as a Service, Headless CMS y testing.
+
+Se puede llevar a cabo en 6 meses, si se le dedica 2 horas al día o 11 semanas, si se le dedica 4 horas al día, dedicando 1 semana a cada tema.
+
+Lo importante es establecer un objetivo, y trabajar en él, día a día. Esfuérzate en aprender, no en saber. Aplica lo que aprendas en un proyecto personal, para que puedas ver los resultados de lo que has aprendido.
+
+### Bases de JavaScript
+
+- Variables
+- Tipos de datos
+- Estructuras de control
+- Funciones
+- Objetos
+- Arrays
+- Clases
+- Módulos
+- Promesas
+- Async/Await
+- Fetch API
+- LocalStorage
+- Eventos
+- DOM
+- ES6
+  - Arrow functions
+  - Template strings
+  - Destructuring
+  - Spread operator
+
+### Bases de React
+
+- JSX
+- Componentes
+- Props
+- State
+- Ciclo de vida
+- Manejo de eventos
+- Listas y keys
+- Formularios
+- Levantamiento de estado
+
+### CSS
+
+- Flexbox
+- Grid
+- Media queries
+- Styled components
+- CSS modules
+
+### React Router
+
+- Configuración
+- Rutas
+- Parámetros
+- Redirecciones
+- Rutas anidadas
+- Rutas protegidas
+
+### Manejo de estado
+
+- Context API
+- Redux Toolkit
+- Zustand
+
+### Hooks
+
+- useState
+- useEffect
+- useContext
+- useReducer
+- useId
+- useRef
+- useMemo
+- useCallback
+
+### Bibliotecas
+
+- Axios
+- Moment
+- Lodash
+- React Query
+- React Transtack Query
+- React Transtack Table
+- React Select
+- DND Kit
+
+### UI Components
+
+- React Bootstrap
+- Material UI
+- Ant Design
+- Chakra UI
+- Tailwind CSS
+  - chaden
+  - nextui
+  - radix-ui
+
+### Backend as a Service
+
+- Firebase
+- Supabase
+- AWS Amplify
+- Hasura
+- Graphbase
+- Pocketbase
+
+### Headless CMS
+
+- Strapi
+- Sanity
+- Contentful
+
+### Testing
+
+- Jest
+- React Testing Library
+- Vitest
+- Puppeteer
+- Playwright
+- Cypress
