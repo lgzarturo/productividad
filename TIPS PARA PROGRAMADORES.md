@@ -24,6 +24,18 @@
 22. No reinventes la rueda, busca soluciones ya existentes.
 23. No acoples tu código, busca la forma de desacoplarlo.
 
+## Ideas para mejorar tu productividad
+
+- No hacer suposiciones, pregunta si no entiendes algo.
+- Busca tu forma de aprender, no todos aprendemos de la misma forma.
+- No te compares con otros, cada uno tiene su propio ritmo.
+- El objetivo es mejorar, no ser el mejor.
+- Sigue aprendiendo, nunca dejes de aprender. Si no aprendes, no avanzas. Busca métodos de aprendizaje que te ayuden a mejorar.
+- Aprende a ser autosuficiente, no dependas de otros para aprender.
+- Da prioridades a tus tareas, no hagas todo al mismo tiempo.
+- Define que es importante para ti, para que puedas enfocarte en ello.
+- Los errores son parte del aprendizaje, no te preocupes por ellos.
+
 ## Tips sobre escribir código
 
 1. Busca escribir código limpio, fácil de leer y entender.
@@ -90,6 +102,11 @@
 - "La mejor forma de predecir el futuro es creándolo."
 - "Hay gente que hace que las cosas ocurran, hay quienes solo observan lo que esta pasando y también están los que no tienen ni idea de lo que esta pasando."
 - "No asumas nada, cuestiona todo. No te quedes con la duda, investiga. Si asumes y te llenas de dudas, no avanzarás."
+- "Los grandes genios no buscan excusas, buscan soluciones."
+- "Todo el mundo trata de venderte algo."
+- "Tienes que aprender a resistir la influencia de los demás. Lo más importante es escoger tu propio camino."
+- "El conocimiento adquirido por cuenta propia es el más valioso."
+- "Leer y aprender de una gama de diversas fuentes es una de las mejores maneras de crecer y tener un panorama más amplio."
 
 ## Tipos de lideres
 
@@ -130,3 +147,40 @@ También se convierte en un proceso de influencia, en el que un líder influye e
 - Debes ser capaz de resolver problemas de manera simple y efectiva.
 - Es importante tener conocimientos sobre el ciclo de vida de un proyecto.
 - Siempre es importante dominar otros lenguajes de programación.
+
+## Temas importantes
+
+- SOLID es un acrónimo que representa cinco principios de diseño de software.
+- DDD es un enfoque de diseño de software que se centra en el dominio del problema.
+- TDD es una técnica de desarrollo de software que se basa en escribir pruebas antes de escribir el código.
+- BDD es una técnica de desarrollo de software que se centra en el comportamiento del sistema.
+- KISS es un principio de diseño de software que aboga por la simplicidad.
+- DRY es un principio de diseño de software que aboga por la reutilización del código.
+- YAGNI es un principio de diseño de software que aboga por no implementar funcionalidades que no se necesitan.
+- Diseño de arquitectura de software es un proceso de diseño de software que se centra en la estructura del sistema.
+
+## Pirámide del desarrollo de software
+
+1. Disciplina de programación, es la base de la pirámide.
+2. Levantamiento de requerimientos, es la segunda capa de la pirámide, para poder programar necesitas saber que hacer.
+3. Análisis de los casos de uso, es la tercera capa de la pirámide, para poder programar necesitas saber como hacerlo.
+4. Gestión de proyectos, es la cuarta capa de la pirámide, para poder programar necesitas saber como gestionar el proyecto.
+5. Diseño de la solución, es la quinta capa de la pirámide, para poder programar necesitas saber como resolver el problema.
+6. Implementación de la solución, es la sexta capa de la pirámide, para poder programar necesitas saber como implementar la solución.
+7. Pruebas de software, es la septima capa de la pirámide, para poder programar necesitas saber como probar la solución.
+8. Despliegue de la solución, es la octava capa de la pirámide, para poder programar necesitas saber como desplegar la solución.
+
+## Conocimiento del negocio
+
+1. Debes conocer el negocio, para poder entender los requerimientos.
+2. Debes entender el vocabulario del negocio, para poder comunicarte con el equipo.
+3. Dominio sobre el negocio, para poder entender el problema y proponer soluciones.
+4. Tener dominio del conocimiento de las metodologías de trabajo, para poder gestionar el proyecto.
+5. Debes tener disciplina en la programación, para poder cumplir con los tiempos de entrega.
+6. Debes entender que los requerimientos cambian, por lo que debes estar preparado para cambiar tu código.
+7. Las pruebas automatizadas son fundamentales, para garantizar la calidad del software.
+8. El profesionalismo individual es importante, para poder trabajar en equipo.
+9. La comunicación efectiva es fundamental, con el equipo y con los clientes.
+10. La atención a los detalles es fundamental, para realizar las tareas de forma correcta a la primera.
+11. La correcta gestión del tiempo es fundamental, para poder cumplir con los tiempos de entrega.
+12. La forma de gestionar el proyecto garantiza el éxito del mismo, por lo que debes tener conocimientos sobre gestión de proyectos.

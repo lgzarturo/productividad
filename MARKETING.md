@@ -176,3 +176,11 @@ Si un producto encaja en las necesidades de un mercado, es capaz de satisfacer l
 - Tiempo de visita.
 - Porcentaje de rebote.
 - Fuentes de tráfico.
+
+## Sobre la audiencia
+
+1. Se debe entender al público objetivo.
+2. Se deben buscar formas de atracción de tráfico.
+3. Se tiene que facilitar el proceso de conversión.
+4. Se busca lograr la compra como objetivo final.
+5. Se debe fomentar la fidelización de los clientes.

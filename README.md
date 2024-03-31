@@ -119,6 +119,7 @@ Lo importante es encontrar la técnica que mejor se adapte a tu forma de trabaja
 - [**Arquitectura de software**](ARQUITECTURA.md): la arquitectura de software es una disciplina que se encarga de definir la estructura de un sistema de software.
 - [**Productividad**](PRODUCTIVIDAD.md): La productividad es la capacidad de hacer más con menos.
 - [**Tips para programadores**](TIPS%20PARA%20PROGRAMADORES.md): consejos para mejorar la productividad como programador.
+- [**Pruebas con Spring Boot**](PRUEBAS%20CON%20SPRING%20BOOT.md): técnicas para hacer pruebas con Spring Boot.
 - **Mindfulness**: la atención plena es una técnica que te ayuda a estar presente en el aquí y ahora.
 - **Resiliencia**: la resiliencia es la capacidad de superar la adversidad.
 - **Autogestión**: la autogestión es la capacidad de gestionar tu tiempo y tus emociones.
